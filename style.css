@@ -34,3 +34,11 @@ svg {
     height: 1%;
     width: 1%;
 }
+.FourZeroFourText {
+	z-index: 99999999999;
+	mix-blend-mode: difference;
+	color: white;
+	font-size: 150px;
+	position: fixed;
+	left: 30%;
+}
